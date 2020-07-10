@@ -1,0 +1,1 @@
+Algorytm drzewa binarnego, napisany na przedmiot algorytmy i struktury danych
